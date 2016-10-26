@@ -1,4 +1,5 @@
 {
+    "perl" : "6.*",
     "name" : "IO::Notification::Recursive",
     "version" : "0.0.1",
     "description" : "Recursively watch a directory and any subdirectories",

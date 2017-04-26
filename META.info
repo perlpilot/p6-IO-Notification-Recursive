@@ -1,5 +1,6 @@
 {
     "name" : "IO::Notification::Recursive",
+    "license" : "Artistic-2.0",
     "version" : "0.0.1",
     "description" : "Recursively watch a directory and any subdirectories",
     "author" : "Jonathan Scott Duff <duff@pobox.com>",
